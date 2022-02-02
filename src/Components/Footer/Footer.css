@@ -1,0 +1,72 @@
+/* Footer */
+.footer{
+    text-align: center;
+    padding: 25px;
+    background-color: silver;
+    
+  }
+  .footer-head{
+    padding-top: 50px;
+  }
+ .mail-logo{
+ 
+   width: 50px;
+   height: 60px;
+  
+ }
+
+ 
+ .delete-icon{
+   width: 25px;
+ }
+
+ .contact-link{
+
+
+  align-items: center;
+  width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .whatsapp-link{
+   visibility: hidden;
+   
+
+  align-items: center;
+  width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+ }
+
+
+
+
+
+ @media only screen and (max-width: 800px) {
+
+  .contact-link{
+    width: 50%;
+    display: inline;
+    padding: 10px;
+    
+    
+  
+  
+   }
+
+   .whatsapp-link{
+    visibility: visible;
+    width: 50%;
+    display: inline;
+    padding: 10px;
+  }
+   
+   
+
+  }  
+
+ 

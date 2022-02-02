@@ -1,0 +1,50 @@
+/* Navigation Bar */
+
+.container-fluid{
+    background-color: silver;
+    margin: 0px;
+    padding: 0px;
+  }
+  .navbar-collapse {
+    flex-direction: row-reverse;
+    
+  }
+  .navbar-brand{
+    padding-left: 20px;
+  }
+  
+  .navbar{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  
+  .nav-link{
+    font-size: 20px;
+  }
+  
+  
+  .Nav-option{
+    padding: 10px;
+  }
+  
+  .Nav-option:hover{
+    color: red;
+   
+  
+  }
+
+
+  @media only screen and (max-width: 800px) {
+
+    .Nav-option{
+      
+      padding-left: 20px;
+      
+      
+    }
+
+    
+
+    
+  }

@@ -1,0 +1,29 @@
+/* Home Page */
+
+.homepage-body{
+    margin-top: 100px;
+    margin-bottom: 0px;
+    background-color: black;
+    padding-bottom: 50px;
+  }
+  .home-heading{
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+    color: antiquewhite;
+  }
+  .home-body{
+    text-align: center;
+    line-height: 2;
+    line-gap-override: 2;
+    line-clamp: 4;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    color: aliceblue;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  
+   
+  }
+  

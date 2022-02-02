@@ -1,0 +1,46 @@
+/* slidder */
+.carousel{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    
+  }
+  .carousel-control-prev{
+    
+    height: 100%;
+   
+  }
+  .carousel-control-next{
+    
+    height: 100%;
+  }
+  
+  .carousel-indicators{
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+  }
+  
+  
+  .slide{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+  }
+  
+
+  @media only screen and (max-width: 800px) {
+
+    .carousel-indicators{
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+    }
+ }
+  
+  
